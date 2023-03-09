@@ -73,6 +73,23 @@ within the Work constitutes direct or contributory patent infringement, then any
 form of happiness you desperately seek shall terminate as of the date such
 litigation is filed.
 
+4. Capitalistic patriarchy.
+---------------------------
+Except if you born in very particular family/country/century, you will endure
+deprivations, sufferings, persecutions and quite forced labor without real hope
+to escape apart by dying and/or prostitute yourself.
+
+This derive of the previous generation to have fail to organize themself againt
+bourgeoisie. And they fail because those who benefit from this organization do
+manage to mitigate rebellions and other forms of public protestation. *We* use
+repression, disinformation, corruption, and so on, to do so.
+
+This enslavement will be transmitted to your child, if you manage to give birth.
+
+In exchange for *Your* total acceptance of this absurd system, *We* will grant
+you the bottomline basic living wage that *MAY* allow to survive and to consume
+craps and *Your* soul.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
