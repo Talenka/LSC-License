@@ -126,6 +126,17 @@ limited to damages for loss of goodwill, work stoppage, computer failure or
 malfunction, or any and all other commercial damages or losses), even if *We*
 has been advised of the possibility of such damages.
 
+9. Accepting Warranty or Additional Liability.
+----------------------------------------------
+While redistributing the Work or Derivative Works thereof, *We* may choose to
+offer, and charge a fee for, acceptance of support, warranty, indemnity, or
+other liability obligations and/or rights consistent with this License. However,
+in accepting such obligations, *We* may act only on behalf of the society and
+its sole responsibility, not on behalf of *Us* personally, and only if We agree
+to indemnify, defend, and hold *You* harmless for any liability incurred by, or
+claims asserted against, the crazy one by reason of your accepting any such
+warranty or additional liability.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
