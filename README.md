@@ -147,6 +147,14 @@ funding medical research, while doing *Our* best that those researchs only
 benefit *Our* families. *We* do not care about future of humanity, and we prefer
 to build cozy bunkers than doing anything actually good for people or earth.
 
+11. What *We* think of *You*.
+-----------------------------
+Because you were born poor, not a white male, not suitable for this craziness to
+continue, or unable to adjust to this sick oligopoly, *We* do think of you as
+barely useful reproductive tools. Maybe if you are a young pretty woman, we will
+give you some attention. And if you have organs and/or blood that *We* need, we
+*MAY* toss you a coin.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
