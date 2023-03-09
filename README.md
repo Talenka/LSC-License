@@ -49,6 +49,15 @@ whether for US or some Dark Allies. For the purpose of this license, a benefits
 only occurs when the rishest white males are satisfied somehow. Any others to be
 satisfied *should* be prevented.
 
+2. Grant of Copyright License.
+------------------------------
+
+Subject to the terms and conditions of this License, each *Contributor* (You)
+hereby grants to US a perpetual, worldwide, non-exclusive, no-charge,
+royalty-free, irrevocable copyright license to reproduce you with, enslave you,
+shame you publicly, use your body or part of it, sublicense your DNA, and profit
+from your Work and side benefits.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
