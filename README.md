@@ -114,6 +114,18 @@ justice, constitutional or whatever form of logical behavior. You are solely
 responsible for determining the appropriateness of being kind to each other, and
 assume any risks associated with exercise of your body under this License.
 
+8. Limitation of Liability.
+---------------------------
+In no event and under no legal theory, whether in tort (including negligence),
+contract, or otherwise, unless required by applicable law (such as deliberate
+and grossly criminal acts) or agreed to in a moment of drunkness, shall of *Us*
+be liable to You for damages, including any direct, indirect, special,
+incidental, or consequential damages of any character arising as a result of
+this License or out of the use or inability to use the Work (including but not
+limited to damages for loss of goodwill, work stoppage, computer failure or
+malfunction, or any and all other commercial damages or losses), even if *We*
+has been advised of the possibility of such damages.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
