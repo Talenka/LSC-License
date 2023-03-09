@@ -90,6 +90,14 @@ In exchange for *Your* total acceptance of this absurd system, *We* will grant
 you the bottomline basic living wage that *MAY* allow to survive and to consume
 craps and *Your* soul.
 
+5. Submission to Authority.
+---------------------------
+Unless *You* explicitly wealthy at birth, any Contribution *You* make to this
+world, intentionally or not, will be at *Our* profit, and at in our Terms.
+Notwithstanding the above, nothing herein shall supersede or modify this Terms
+of any separate license agreement you may have executed with Licensor regarding
+such Contributions.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
