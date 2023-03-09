@@ -1,9 +1,10 @@
 Late Stage Capitalism License
 =============================
 Version 6.6.6, Since a long time ago, in a galaxy far far away...
+
 https://github.com/Talenka/LSC-License
 
-TERMS AND CONDITIONS FOR CONSUMPTION, CONTAGION, AND INOCULATION
+**TERMS AND CONDITIONS FOR CONSUMPTION, CONTAGION, AND INOCULATION**
 
 1. Axioms.
 ----------
