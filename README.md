@@ -137,6 +137,16 @@ to indemnify, defend, and hold *You* harmless for any liability incurred by, or
 claims asserted against, the crazy one by reason of your accepting any such
 warranty or additional liability.
 
+10. Environment.
+----------------
+The system not only destroys persons and community, but *We* exploit, consume,
+pollute and rearrange at *Our* will the environment for *Our* pleasure. We only
+accept organic food, public gardens and parks, and other minor deviation from
+Evil because it is nice to Us. *We* mitigate pollution effects on *Us* by
+funding medical research, while doing *Our* best that those researchs only
+benefit *Our* families. *We* do not care about future of humanity, and we prefer
+to build cozy bunkers than doing anything actually good for people or earth.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
