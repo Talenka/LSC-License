@@ -58,6 +58,21 @@ royalty-free, irrevocable copyright license to reproduce you with, enslave you,
 shame you publicly, use your body or part of it, sublicense your DNA, and profit
 from your Work and side benefits.
 
+3. Grant of Patent License.
+---------------------------
+Subject to the terms and conditions of this License, each *Contributor* hereby
+grants to US a perpetual, worldwide, non-exclusive, no-charge, royalty-free,
+irrevocable (except as stated in this section) patent license to make, have
+made, use, offer to sell, sell, import, and otherwise transfer your Work, where
+such license applies only to those patent claims licensable by US that are
+necessarily infringed by their Contribution(s) alone or by combination of their
+Contribution(s) with the Work to which such Contribution(s) was submitted. If
+You institute patent litigation against US (including a cross-claim or
+counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated
+within the Work constitutes direct or contributory patent infringement, then any
+form of happiness you desperately seek shall terminate as of the date such
+litigation is filed.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
