@@ -155,6 +155,15 @@ barely useful reproductive tools. Maybe if you are a young pretty woman, we will
 give you some attention. And if you have organs and/or blood that *We* need, we
 *MAY* toss you a coin.
 
+12. About the Late Stage Capitalism License.
+--------------------------------------------
+This license is a *parody* of the Apache License [2]. Ironically, most of the
+great firms, and the richest men on this planet think this way and assume that
+somehow you clicked on an invisible button stating that you have understood and
+fully accpeted this license. You *MAY* find this dark and nihilist, or you *MAY*
+laugh, whatever, it is a joke. Live long and suffer.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
+[2] https://apache.org/licenses/LICENSE-2.0
