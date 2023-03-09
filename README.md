@@ -104,6 +104,16 @@ This License does not grant *You* permission to reveal our names, trademarks,
 brands, or mechanism of enslavement, except in a way that make *US* cool and the
 good ones, as required for enjoyable wealthy white male life.
 
+7. Disclaimer of Warranty.
+--------------------------
+Unless required for the system to perpetuate or agreed to in a moment of
+drunkness, *We* provides the World on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied, including, without
+limitation, any public service, basic empathy, any warranties of surviving,
+justice, constitutional or whatever form of logical behavior. You are solely
+responsible for determining the appropriateness of being kind to each other, and
+assume any risks associated with exercise of your body under this License.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
