@@ -98,6 +98,12 @@ Notwithstanding the above, nothing herein shall supersede or modify this Terms
 of any separate license agreement you may have executed with Licensor regarding
 such Contributions.
 
+6. Trademarks.
+--------------
+This License does not grant *You* permission to reveal our names, trademarks,
+brands, or mechanism of enslavement, except in a way that make *US* cool and the
+good ones, as required for enjoyable wealthy white male life.
+
 Notes:
 ------
 [1] https://en.wikipedia.org/wiki/Fear,_uncertainty,_and_doubt
