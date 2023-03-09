@@ -29,12 +29,12 @@ Capitalism its power by sucking its life through Fear, Uncertainty and Doubt [1]
 
 "The Force" form *shall* mean the preferred power of altering reality, including
 but not limited to software obfuscated source code, bureaucratic corruption,
-and conspiracy files. Whistleblowers and other forms of altruism is strictly
+and conspiracy files. Whistle-blowers and other forms of altruism is strictly
 prohibited.
 
 "Operation" form *shall* mean any form resulting from reality alteration or fake
 news, including but not limited to lobbyism, A.I. bullshits, and sponsored
-contents. Dirty stupitidy, bad faith, aggressive communication serve US.
+contents. Dirty stupidity, bad faith, aggressive communication serve US.
 
 "Slavery" *shall* mean YOUR labor, whether in forced or in creative way, all
 data WE may want about you and your siblings, your attention, your health, both
@@ -46,7 +46,7 @@ and beyond, it is bad for you, but delightful for US to know.
 
 "Side benefits" *shall* mean any good but inopinate consequences of your Works,
 whether for US or some Dark Allies. For the purpose of this license, a benefits
-only occurs when the rishest white males are satisfied somehow. Any others to be
+only occurs when the richest white males are satisfied somehow. Any others to be
 satisfied *should* be prevented.
 
 2. Grant of Copyright License.
@@ -79,7 +79,7 @@ Except if you born in very particular family/country/century, you will endure
 deprivations, sufferings, persecutions and quite forced labor without real hope
 to escape apart by dying and/or prostitute yourself.
 
-This derive of the previous generation to have fail to organize themself againt
+This derive of the previous generation to have fail to organize themselves against
 bourgeoisie. And they fail because those who benefit from this organization do
 manage to mitigate rebellions and other forms of public protestation. *We* use
 repression, disinformation, corruption, and so on, to do so.
@@ -87,7 +87,7 @@ repression, disinformation, corruption, and so on, to do so.
 This enslavement will be transmitted to your child, if you manage to give birth.
 
 In exchange for *Your* total acceptance of this absurd system, *We* will grant
-you the bottomline basic living wage that *MAY* allow to survive and to consume
+you the bottom-line basic living wage that *MAY* allow to survive and to consume
 craps and *Your* soul.
 
 5. Submission to Authority.
@@ -107,7 +107,7 @@ good ones, as required for enjoyable wealthy white male life.
 7. Disclaimer of Warranty.
 --------------------------
 Unless required for the system to perpetuate or agreed to in a moment of
-drunkness, *We* provides the World on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+drunkenness, *We* provides the World on an "AS IS" BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied, including, without
 limitation, any public service, basic empathy, any warranties of surviving,
 justice, constitutional or whatever form of logical behavior. You are solely
@@ -118,7 +118,7 @@ assume any risks associated with exercise of your body under this License.
 ---------------------------
 In no event and under no legal theory, whether in tort (including negligence),
 contract, or otherwise, unless required by applicable law (such as deliberate
-and grossly criminal acts) or agreed to in a moment of drunkness, shall of *Us*
+and grossly criminal acts) or agreed to in a moment of drunkenness, shall of *Us*
 be liable to You for damages, including any direct, indirect, special,
 incidental, or consequential damages of any character arising as a result of
 this License or out of the use or inability to use the Work (including but not
@@ -143,7 +143,7 @@ The system not only destroys persons and community, but *We* exploit, consume,
 pollute and rearrange at *Our* will the environment for *Our* pleasure. We only
 accept organic food, public gardens and parks, and other minor deviation from
 Evil because it is nice to Us. *We* mitigate pollution effects on *Us* by
-funding medical research, while doing *Our* best that those researchs only
+funding medical research, while doing *Our* best that those researches only
 benefit *Our* families. *We* do not care about future of humanity, and we prefer
 to build cozy bunkers than doing anything actually good for people or earth.
 
@@ -160,8 +160,14 @@ give you some attention. And if you have organs and/or blood that *We* need, we
 This license is a *parody* of the Apache License [2]. Ironically, most of the
 great firms, and the richest men on this planet think this way and assume that
 somehow you clicked on an invisible button stating that you have understood and
-fully accpeted this license. You *MAY* find this dark and nihilist, or you *MAY*
+fully accepted this license. You *MAY* find this dark and nihilist, or you *MAY*
 laugh, whatever, it is a joke. Live long and suffer.
+
+13. (Secret one).
+-----------------
+If you want to add cynicism, dark funniness, and creative conspiracy to this
+license, *We* will be absolutely delighted to see it and to complete this
+masterpiece.
 
 Notes:
 ------
